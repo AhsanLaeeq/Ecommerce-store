@@ -1,0 +1,59 @@
+.shipping-policy {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  line-height: 1.6;
+}
+
+.shipping-policy h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #222;
+  text-align: center;
+}
+
+.shipping-policy .intro {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  color: #555;
+  text-align: center;
+}
+
+.shipping-policy section {
+  margin-bottom: 2rem;
+}
+
+.shipping-policy h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #0077ff;
+  margin-bottom: 0.5rem;
+}
+
+.shipping-policy p {
+  font-size: 1rem;
+  color: #444;
+}
+
+.shipping-policy ul {
+  margin: 0.5rem 0 1rem 1.5rem;
+  padding: 0;
+}
+
+.shipping-policy ul li {
+  margin-bottom: 0.5rem;
+}
+
+.shipping-policy a {
+  color: #0077ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.shipping-policy a:hover {
+  text-decoration: underline;
+}

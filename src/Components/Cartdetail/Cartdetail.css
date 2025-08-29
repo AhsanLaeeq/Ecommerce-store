@@ -1,0 +1,33 @@
+.product-detail {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.detail-img {
+  width: 300px;
+  height: auto;
+  object-fit: contain;
+}
+
+.detail-info {
+  max-width: 600px;
+}
+
+.detail-desc {
+  margin: 1rem 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.add-btn {
+  padding: 10px 20px;
+  background: #ff416c;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.add-btn:hover {
+  background: #ff4b2b;
+}

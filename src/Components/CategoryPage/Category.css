@@ -1,0 +1,49 @@
+/* Category.css */
+
+.category-page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.category-page h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  color: #333;
+  text-align: center;
+  position: relative;
+}
+
+.category-page h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #ff416c, #ff4b2b);
+  margin: 0.5rem auto;
+  border-radius: 2px;
+}
+
+.category-products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.category-products p {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #777;
+}
+
+/* Loading text */
+.category-page > p {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #666;
+  margin-top: 2rem;
+}
