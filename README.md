@@ -1,5 +1,4 @@
-Got it 🚀
-Here’s a **professional and attractive README.md** for your GitHub repo with your LinkedIn + Live Website link:
+Perfect 👍 I’ll make the links **clickable and attractive** in Markdown (they already work, but I’ll style them with emojis and clear headings). Here’s your updated **README.md**:
 
 ````markdown
 # 🛍️ Ecommerce Store
@@ -10,14 +9,14 @@ Browse products, view details, and add them to your cart seamlessly.
 ---
 
 ## 🌐 Live Demo
-👉 [View Website](https://ahsanlaeeq.github.io/Ecommerce-store/)
+🔗 **[👉 View Website](https://ahsanlaeeq.github.io/Ecommerce-store/)**  
 
 ---
 
 ## 👨‍💻 About Me
 Hi, I'm **Ahsan Laeeq**, a passionate **Frontend Developer** who loves building clean and responsive web applications.  
 
-📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)
+📌 **[Connect with me on LinkedIn](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)**  
 
 ---
 
@@ -31,11 +30,11 @@ Hi, I'm **Ahsan Laeeq**, a passionate **Frontend Developer** who loves building 
 ---
 
 ## 🛠️ Tech Stack
-- **React.js**
-- **Vite**
-- **CSS3**
-- **React Router**
-- **DummyJSON API**
+- ⚛️ **React.js**  
+- ⚡ **Vite**  
+- 🎨 **CSS3**  
+- 🌐 **React Router**  
+- 📡 **DummyJSON API**
 
 ---
 
@@ -86,5 +85,12 @@ npm run deploy
 
 ---
 
-👉 Would you like me to also **design a banner image (cover photo)** for your GitHub README (with Ecommerce Store title + your name + maybe cart icons), so it looks even more attractive?
+✅ Now both your **Live Website** and **LinkedIn** are **clickable links**.  
+
+Do you also want me to add **badges (shields)** like:  
+- `Live Website` badge  
+- `LinkedIn` badge  
+- `Made with React` badge  
+
+👉 That will make your README look even more professional.
 ```
