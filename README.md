@@ -1,17 +1,3 @@
-
-```bash
-git add README.md
-git commit -m "Update README with live demo & LinkedIn"
-git push
-```
-
-4. Open your repo on GitHub — links will be clickable.
-
----
-
-## Copy this entire block **(without the outer triple backticks)** into `README.md`
-
-````markdown
 # 🛍️ Ecommerce Store
 
 [![Live Demo](https://img.shields.io/badge/Live-Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://ahsanlaeeq.github.io/Ecommerce-store/)  
@@ -58,7 +44,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/AhsanLaeeq/Ecommerce-store.git
 cd Ecommerce-store
-
+````
 
 Install dependencies:
 
@@ -86,7 +72,5 @@ npm run deploy
 
 ---
 
-
 ⭐ If you like this project, don’t forget to **star the repo**!
-
 
