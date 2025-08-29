@@ -25,24 +25,49 @@ git push
 ````markdown
 # 🛍️ Ecommerce Store
 
-[![Live Demo](https://img.shields.io/badge/Live-Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://ahsanlaeeq.github.io/Ecommerce-store/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhsanLaeeq-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)
+Got it 👍 let’s fix this properly.
 
-A modern **Ecommerce Store** built with **React + Vite**. Browse products, view details, and add them to your cart seamlessly.
+If your README links **aren’t clickable on GitHub**, it’s almost always because:
+
+1. The file isn’t named **`README.md`** (must be exactly that).
+2. The markdown is wrapped in **triple backticks (`...`)**, which tells GitHub “treat this as code” → links won’t work.
+3. The file is saved as `.txt` or another extension instead of `.md`.
+
+---
+
+Here’s the **exact text you should paste** (⚠️ DO NOT put backticks before or after it):
+
+# 🛍️ Ecommerce Store
+
+[![Live Demo](https://img.shields.io/badge/Live-Website-Visit-blue?style=for-the-badge\&logo=google-chrome)](https://ahsanlaeeq.github.io/Ecommerce-store/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhsanLaeeq-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)
+
+A modern **Ecommerce Store** built with **React + Vite**.
 
 ---
 
 ## 🌐 Live Demo
-🔗 **[👉 View Website](https://ahsanlaeeq.github.io/Ecommerce-store/)**
+
+👉 [**View Website Here**](https://ahsanlaeeq.github.io/Ecommerce-store/)
 
 ---
 
 ## 👨‍💻 About Me
-Hi, I'm **Ahsan Laeeq**, a passionate **Frontend Developer** who loves building clean and responsive web applications.
 
-📌 **[Connect with me on LinkedIn](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)**
+Hi, I'm **Ahsan Laeeq**, a passionate **Frontend Developer**.
+
+📌 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)
 
 ---
+
+✅ After saving:
+
+* Open your repo on GitHub → scroll down → links should be **blue & clickable**.
+
+---
+
+⚡ Question for you: when you say “not working,” do the links show up as plain text (like just `https://...`) or are they showing but **not clickable**?
+
 
 ## ✨ Features
 - 🛒 Product Listing Page  
