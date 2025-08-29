@@ -1,12 +1,90 @@
-# React + Vite
+Got it 🚀
+Here’s a **professional and attractive README.md** for your GitHub repo with your LinkedIn + Live Website link:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# 🛍️ Ecommerce Store
 
-Currently, two official plugins are available:
+A modern **Ecommerce Store** built with **React + Vite**.  
+Browse products, view details, and add them to your cart seamlessly.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
+👉 [View Website](https://ahsanlaeeq.github.io/Ecommerce-store/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👨‍💻 About Me
+Hi, I'm **Ahsan Laeeq**, a passionate **Frontend Developer** who loves building clean and responsive web applications.  
+
+📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)
+
+---
+
+## ✨ Features
+- 🛒 Product Listing Page  
+- 🔍 Product Detail Page  
+- ➕ Add to Cart Functionality  
+- 📱 Fully Responsive Design  
+- ⚡ Powered by **React + Vite**
+
+---
+
+## 🛠️ Tech Stack
+- **React.js**
+- **Vite**
+- **CSS3**
+- **React Router**
+- **DummyJSON API**
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AhsanLaeeq/Ecommerce-store.git
+cd Ecommerce-store
+````
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Deploy with GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots of your project here for a more attractive README)
+
+---
+
+⭐ If you like this project, don’t forget to **star the repo**!
+
+```
+
+---
+
+👉 Would you like me to also **design a banner image (cover photo)** for your GitHub README (with Ecommerce Store title + your name + maybe cart icons), so it looks even more attractive?
+```
